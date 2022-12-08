@@ -1,0 +1,9 @@
+{
+  "chromeWebSecurity": false,
+  "dependencies": {
+    "cypress": "^12.0.1"
+  },
+  "scripts": {
+    "cy:run": "cypress run"
+  }
+}
